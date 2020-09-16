@@ -1,1 +1,1 @@
-# demo-vanilla-pixabay
+# demo-vanilla-pixabay Vanilla JS 
